@@ -104,3 +104,42 @@ header {
     text-align: center;
     background-color: #FFF;
 }
+
+.bannerImgFullWidth {
+    max-width: 1150px;
+    max-height: 250px;
+    overflow-y: hidden;
+    width: 100%;
+}
+
+.margins {
+    margin: auto;
+    margin-top: 2vh;
+}
+
+.cursorSelectable {
+    cursor: pointer
+}
+
+.panel-heading:hover {
+    background-color: #cce6fb;
+    transition: ease-in-out, 0.4s;
+}
+.imgContainer {
+    max-height: 150px;;
+    overflow: hidden;
+}
+
+
+
+
+
+
+
+.overlay {
+    position: absolute;
+}
+
+.bannerTextWhite {
+    color: white;
+}
