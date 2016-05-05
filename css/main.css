@@ -47,6 +47,12 @@ header {
     width: 100%;
 }
 
+.landingBgVideo {
+    width: 100%;
+    left: -100%;
+    top: -100%;
+}
+
 .section--top {
     z-index: 3;
 }
