@@ -244,3 +244,7 @@ footer p {
     font-size: 18px;
     text-transform: uppercase;
 }
+.links {
+    margin-right: 50px;
+    font-size: 18px;
+}
