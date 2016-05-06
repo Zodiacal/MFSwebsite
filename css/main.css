@@ -52,6 +52,12 @@ header {
     width: 100%;
 }
 
+.landingBgVideo {
+    width: 100%;
+    left: -100%;
+    top: -100%;
+}
+
 .section--top {
     text-align: center;
     padding-top: 70px;
@@ -61,7 +67,7 @@ header {
 .section--top:before {
     width: 100%;
     height: 0;
-    border-width: 15vw;
+    border-width: 200px;
     display: block;
     content: ' ';
     position: absolute;
@@ -113,6 +119,9 @@ header {
 }
 
 .section--info {
+<<<<<<< HEAD
+
+=======
     text-align: center;
     margin-top: -22%;
     z-index: 4;
@@ -158,6 +167,7 @@ header {
 .section--info .bridge:after {
     background-image: linear-gradient(100deg, #FFFFFF 0%, #FFFFFF 50%, #223874 50%, #223874 100%);
     transform: translateX(-15%) rotate(-10deg); 
+>>>>>>> origin/master
 }
 
 .section--info .bridge .bridge__text {
@@ -229,6 +239,8 @@ header {
 .bannerTextWhite {
     color: white;
 }
+<<<<<<< HEAD
+=======
 
 
 footer {
@@ -244,7 +256,11 @@ footer p {
     font-size: 18px;
     text-transform: uppercase;
 }
+<<<<<<< HEAD
 .links {
     margin-right: 50px;
     font-size: 18px;
 }
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
